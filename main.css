@@ -43,7 +43,6 @@ body {
 }
 
 @keyframes text{
-
     0%{
         color: rgba(227, 154, 7,0.1);
         margin-bottom: -70px;
