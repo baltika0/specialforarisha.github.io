@@ -29,10 +29,10 @@ body {
     letter-spacing: 0.04em;
     background: #2b2925;
     position: relative;
-    -webkit-animation: text 2.5s;
-    -moz-animation:text 2.5s;
-    -o-animation: text 2.5s;
-    animation: text 2.5s;
+    -webkit-animation: text 3s;
+    -moz-animation:text 3s;
+    -o-animation: text 3s;
+    animation: text 3s;
     text-shadow: 0px 0px 15px #fa0;
     
 }
@@ -44,7 +44,7 @@ body {
 }
 
 @keyframes text{
-    
+
     0%{
         color: rgba(227, 154, 7,0.1);
         margin-bottom: -70px;
